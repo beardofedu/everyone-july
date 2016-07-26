@@ -11,6 +11,7 @@ Your trainers for today will be:
 - On Gitter: 
  - Hector Alfaro (:octocat: @halfaro1)
  - Matt Desmond (:octocat: @beardofedu)
+ - Cynthia Rich (:octocat: @crichID)
 
 ### Before we Begin
 
